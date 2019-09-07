@@ -1,0 +1,75 @@
+[
+  {
+    "category": "Java",
+    "bookList": [
+      {
+        "title": "Hibernate in Action (Chinese Edition)",
+        "price": 700
+      },
+      {
+        "title": "3D User Interfaces with Java 3D",
+        "price": 530
+      },
+      {
+        "title": "Android in Action, Second Edition",
+        "price": 789
+      },
+      {
+        "title": "Griffon in Action",
+        "price": 650
+      },
+      {
+        "title": "OSGi in Depth",
+        "price": 840
+      }
+    ]
+  },
+  {
+    "category": "PowerBuilder",
+    "bookList": [
+      {
+        "title": "Taming Jaguar",
+        "price": 810
+      },
+      {
+        "title": "Distributed Application Development with PowerBuilder 6.0",
+        "price": 830
+      },
+      {
+        "title": "Jaguar Development with PowerBuilder 7",
+        "price": 230
+      }
+    ]
+  },
+  {
+    "category": "Next Generation Databases",
+    "bookList": [
+      {
+        "title": "MongoDB in Action",
+        "price": 350
+      }
+    ]
+  },
+  {
+    "category": "Microsoft",
+    "bookList": [
+      {
+        "title": "Brownfield Application Development in .NET",
+        "price": 550
+      }
+    ]
+  },
+  {
+    "category": "Web Development",
+    "bookList": [
+      {
+        "title": "Flexible Rails",
+        "price": 570
+      },
+      {
+        "title": "Zend Framework in Action",
+        "price": 555
+      }
+    ]
+  }
+]
