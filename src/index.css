@@ -1,0 +1,108 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 14px;
+  background-color: darkturquoise
+}
+
+
+table {
+  border-collapse: collapse;
+  width:100%;
+}
+
+th, td{
+  border: 1px solid #000;
+  padding: 5px;
+  text-align: center;
+  width:33%;
+  color: #fff;
+}
+
+th{
+  color: #000;
+}
+
+button, input[type="submit"]{
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .3);
+  outline: none;
+  min-width: 70px;
+}
+
+
+.book-lib{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.accordian-table, .sub-table{
+  margin: 20px;
+  padding: 20px 20px 0;
+  background: grey;
+  border: 2px solid #fff;
+  box-shadow: 0 1px 14px rgba(0, 0, 0, .6);
+  
+}
+
+.accordian-table button{
+  background-color: #2ecc71;
+}
+
+.accordian-table a{
+  color: #fff;
+  text-decoration: underline;
+}
+
+.sub-table{
+  margin: 0;
+  padding: 0;
+  background-color: cadetblue
+}
+
+.form-wrap{
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: rgba(0,0,0,.6);
+  padding: 60px;
+  right: 0;
+  left: 0;
+  z-index: 9;
+  width: 100%;
+  height: 500px;
+}
+
+form{
+  width: 100%;
+  height: 100%;
+  background: dodgerblue;
+  padding: 20px;
+  max-width: 1024px;
+  margin: 0 auto;
+  overflow: auto;
+}
+fieldset{
+  padding: 20px;
+  color: white;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.form-scroll{
+  
+    width: 100%;
+    height: 100%;
+}
